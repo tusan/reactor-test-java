@@ -1,4 +1,4 @@
-package com.tusan.reactortest.Subscriber;
+package com.tusan.reactortest.subscriber;
 
 import com.tusan.reactortest.services.OutputObject;
 
