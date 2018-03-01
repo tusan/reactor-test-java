@@ -1,3 +1,10 @@
+generated
+.idea
+out
+gradle
+build
+.gradle
+
 # Compiled class file
 *.class
 
